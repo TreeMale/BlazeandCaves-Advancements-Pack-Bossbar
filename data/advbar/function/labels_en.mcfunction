@@ -1,0 +1,8 @@
+data modify storage advbar:config labels.loading set value '"Loading..."'
+data modify storage advbar:config labels.progress set value '"Advancements: "'
+data modify storage advbar:config labels.out_of set value '" of "'
+data modify storage advbar:config labels.day set value '"Day "'
+data modify storage advbar:config labels.played set value '"Playtime: "'
+data modify storage advbar:config labels.hours set value '" h"'
+data modify storage advbar:config labels.hours_space set value '" h "'
+data modify storage advbar:config labels.minutes set value '" min"'
