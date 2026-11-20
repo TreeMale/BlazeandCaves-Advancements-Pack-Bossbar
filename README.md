@@ -1,1 +1,1 @@
-# -BACAP-Bossbar-Overlay
+# BACAP-Bossbar-Overlay
